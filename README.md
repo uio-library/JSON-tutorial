@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+This introduction to JSON presupposes a basic knowledge of Python programming.
+If you're unfamiliar with programming, we recommend that you first work through our 
+[Python introduction](https://scriptotek.github.io/programming-for-lawyers/).
 
-You can use the [editor on GitHub](https://github.com/uio-library/JSON-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We recommend using [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Notebook%20Basics.html)
+at the University of Oslo [JupyterHub](https://jupyterhub.uio.no/).
+If you don't have access to JupyterHub, you can use Google's
+[Colab](https://colab.research.google.com/github/scriptotek/programming-for-lawyers/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lessons
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uio-library/JSON-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Introduction](https://nbviewer.jupyter.org/github/uio-library/JSON-tutorial/blob/master/01_intro.ipynb)
