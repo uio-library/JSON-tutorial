@@ -1,4 +1,4 @@
-This introduction to JSON reqires basic knowledge of Python programming.
+This introduction to JSON requires basic knowledge of Python programming.
 If you're unfamiliar with programming, we recommend that you first work through our 
 [Python introduction](https://scriptotek.github.io/programming-for-lawyers/).
 
